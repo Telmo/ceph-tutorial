@@ -1,0 +1,15 @@
+Host admin
+  Hostname admin.ceph.rm
+  User ceph
+  
+Host node1
+  Hostname node1.ceph.rm
+  User ceph
+  
+Host node2
+  Hostname node2.ceph.rm
+  User ceph
+  
+Host node3
+  Hostname node3.ceph.rm
+  User ceph
